@@ -1,6 +1,6 @@
-# Bibliomation Inc.
-
 ![Bibliomation logo](./logo.svg)
+
+# Bibliomation Inc.
 
 Connecticut’s largest library consortium and the state’s only open source consortium. We share an Evergreen ILS with member libraries and contribute tools and documentation for the wider open source community.
 
