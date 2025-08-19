@@ -4,15 +4,22 @@
 
 Connecticut’s largest library consortium and the state’s only open source consortium. We share an Evergreen ILS with member libraries and contribute tools and documentation for the wider open source community.
 
-- Internship repository: https://github.com/Bibliomation-Inc/internship
-- Internship docs site: https://bibliomation-inc.github.io/internship
+## Featured Content
 
-What you’ll find here:
-- Public documents for interns (onboarding, guides, examples)
-- Tools, scripts, and utilities for the Evergreen ILS
+- [Internship repository](https://github.com/Bibliomation-Inc/internship): Onboarding, guides, and examples for interns
+- [Internship docs site](https://bibliomation-inc.github.io/internship)
+- [LibraryIQ Extract](https://github.com/Bibliomation-Inc/library-iq-extract): Export Evergreen data for analytics
+
+## What You'll Find
+
+- Public documents for interns
+- Tools, scripts, and utilities for Evergreen ILS
 - Reusable workflows and small services supporting libraries
 
-Contributing:
-- Open issues for ideas/bugs and submit pull requests to improve docs and tools.
+## Contributing
 
-Learn more: https://biblio.org
+Open issues for ideas or bugs, and submit pull requests to improve docs and tools.
+
+---
+
+Learn more: [biblio.org](https://biblio.org)
